@@ -1,4 +1,4 @@
-# CodeWars Python Solutions
+# C++ College Solutions
 
 ---
 
